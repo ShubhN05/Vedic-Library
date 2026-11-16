@@ -87,4 +87,4 @@ BOOKS/
 
 ## Note
 
-This repository is private and for personal reading. Some translations and commentaries are still under copyright, so check a book's rights before sharing its PDF with other people.
+Only add books you have the right to share. Old public-domain texts and your own writing are safe. Many modern translations and commentaries are still under copyright, so check a book's rights before uploading its PDF.
