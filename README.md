@@ -85,6 +85,12 @@ BOOKS/
 - [Garuda Purana](P17-Garuda-Purana/)
 - [Brahmanda Purana](P18-Brahmanda-Purana/)
 
-## Note
+## Why this library exists
 
-Only add books you have the right to share. Old public-domain texts and your own writing are safe. Many modern translations and commentaries are still under copyright, so check a book's rights before uploading its PDF.
+This library is only for people who find it hard to get these books in Hindi and English. The aim is to make them easy to find and read in one place.
+
+I do not earn any money from this project, and I never will. It is free for everyone.
+
+If you like a book, please support the real publishers and authors. Buy the original book from them so their work can continue.
+
+> हिन्दी: यह संग्रह केवल उन लोगों के लिए है जिन्हें ये पुस्तकें हिन्दी और अंग्रेज़ी में आसानी से नहीं मिलतीं। मैं इससे कोई कमाई नहीं करता। अगर आपको कोई पुस्तक पसंद आए, तो कृपया असली प्रकाशकों और लेखकों का समर्थन करें और मूल पुस्तक खरीदें।
