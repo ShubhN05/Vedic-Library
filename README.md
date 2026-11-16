@@ -3,8 +3,8 @@
 My book collection.
 
 ## Epics
-- [mahabharat](mahabharat/)
-- [ramayan](ramayan/)
+- [Mahabharata](E01-Mahabharata/)
+- [Ramayana](E02-Ramayana/)
 
 ## Vedas, texts and Upanishads
 - [Rigveda](01-Rigveda/)
