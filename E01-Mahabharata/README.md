@@ -36,7 +36,7 @@ The Mahabharata in **English and Hindi**, one PDF for each of its 18 parvas (boo
 | 03 | Vana Parva | [PDF](english/03_Vana_Parva_English.pdf) | [PDF](hindi/03_Vana_Parva_Hindi.pdf) |
 | 04 | Virata Parva | [PDF](english/04_Virata_Parva_English.pdf) | [PDF](hindi/04_Virata_Parva_Hindi.pdf) |
 | 05 | Udyoga Parva | [PDF](english/05_Udyoga_Parva_English.pdf) | [PDF](hindi/05_Udyoga_Parva_Hindi.pdf) |
-| 06 | Bhishma Parva | [PDF](english/06_Bhishma_Parva_English.pdf) | coming soon |
+| 06 | Bhishma Parva | [PDF](english/06_Bhishma_Parva_English.pdf) | [PDF](hindi/06_Bhishma_Parva_Hindi.pdf) |
 | 07 | Drona Parva | [PDF](english/07_Drona_Parva_English.pdf) | [PDF](hindi/07_Drona_Parva_Hindi.pdf) |
 | 08 | Karna Parva | [PDF](english/08_Karna_Parva_English.pdf) | coming soon |
 | 09 | Shalya Parva | [PDF](english/09_Shalya_Parva_English.pdf) | [PDF](hindi/09_Shalya_Parva_Hindi.pdf) |
