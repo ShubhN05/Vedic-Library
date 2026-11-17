@@ -18,6 +18,15 @@ The Mahabharata in **English and Hindi**, one PDF for each of its 18 parvas (boo
 | [`english/`](english/) | English PDFs, one for each parva |
 | [`hindi/`](hindi/) | Hindi PDFs, one for each parva |
 
+## Complete book
+
+If you only want one file, download the whole Mahabharata in a single PDF.
+
+| Language | File |
+|---|---|
+| English | [Mahabharata_Complete_English.pdf](english/Mahabharata_Complete_English.pdf) (all 18 parvas, about 55 MB) |
+| Hindi | coming soon |
+
 ## The 18 parvas
 
 | No. | Parva | English | Hindi |
