@@ -17,6 +17,15 @@ The Valmiki Ramayana in **English**, one PDF for each of its 7 kandas (books). T
 | [`english/`](english/) | English PDFs, one for each kanda |
 | [`hindi/`](hindi/) | Hindi PDFs (coming soon) |
 
+## Complete book
+
+If you only want one file, download the whole Ramayana in a single PDF.
+
+| Language | File |
+|---|---|
+| English | [00_Valmiki_Ramayana_Complete_English.pdf](english/00_Valmiki_Ramayana_Complete_English.pdf) (all 7 kandas, about 13 MB) |
+| Hindi | coming soon |
+
 ## The 7 kandas
 
 | No. | Kanda | English | Hindi |
