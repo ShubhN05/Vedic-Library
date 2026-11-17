@@ -20,7 +20,7 @@ The Mahabharata in **English and Hindi**, one PDF for each of its 18 parvas (boo
 
 ## Complete book
 
-If you only want one file, download the whole Mahabharata in a single PDF.
+**Note:** `Mahabharata_Complete_English.pdf` is the **complete Mahabharata in one book**. It is not a different book from `01`, `02` and the others. Each of `01` to `18` has only **one parva**, and the complete file has **all 18 parvas together**. So if you want the whole Mahabharata, download the complete file. If you want a single parva, download its own file.
 
 | Language | File |
 |---|---|

@@ -19,7 +19,7 @@ The Valmiki Ramayana in **English**, one PDF for each of its 7 kandas (books). T
 
 ## Complete book
 
-If you only want one file, download the whole Ramayana in a single PDF.
+**Note:** the file starting with `00` is the **complete Ramayana in one book**. It is not a different book from `01`, `02` and the others. Each of `01` to `07` has only **one kanda**, and `00` has **all 7 kandas together**. So if you want the whole Ramayana, download `00`. If you want a single kanda, download its own file.
 
 | Language | File |
 |---|---|
