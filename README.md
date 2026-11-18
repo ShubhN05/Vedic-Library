@@ -16,7 +16,7 @@ Books are added one at a time. Open a book that says **Complete** or **Partly**.
 
 | Book | English | Hindi |
 |---|---|---|
-| [Mahabharata](E01-Mahabharata/) | Complete (18 of 18) | Partly (15 of 18) |
+| [Mahabharata](E01-Mahabharata/) | Complete (18 of 18) | Partly (16 of 18) |
 | [Ramayana](E02-Ramayana/) | Complete (7 of 7) | Coming soon |
 
 The Mahabharata and the Ramayana also have a **complete book**: all the parts together in one PDF. Each part is also a separate PDF. Open the folder to see both.
