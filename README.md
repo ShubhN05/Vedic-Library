@@ -1,4 +1,4 @@
-# BOOKS
+# Vedic Library
 
 A library of India's great original texts. Here you can find the **PDFs of each book, in both Hindi and English**, collected in one place.
 
@@ -72,7 +72,7 @@ The Mahabharata and the Ramayana also have a **complete book**: all the parts to
 ## How the library is arranged
 
 ```
-BOOKS/
+Vedic-Library/
 ├── E01-Mahabharata/
 │   ├── hindi/      <- Hindi PDFs
 │   └── english/    <- English PDFs
