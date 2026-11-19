@@ -8,6 +8,7 @@ The Valmiki Ramayana in **English and Hindi**, one PDF for each of its 7 kandas 
 
 - **The text:** the Valmiki Ramayana, the original Sanskrit epic in 7 kandas.
 - **The English translation:** by **Bibek Debroy**, *The Valmiki Ramayana* (Penguin Books India, 3 volumes, 2017).
+- **The Hindi translation:** a Hindi translation of Debroy's English, made with the help of AI, so a mistake is possible. If you find one, please tell me.
 - **Layout:** each PDF is one kanda. They are not the 3 Debroy volumes. This makes each book easy to find and open.
 
 ## Folders
