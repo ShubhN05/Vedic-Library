@@ -1,8 +1,8 @@
 # Ramayana
 
-The Valmiki Ramayana in **English**, one PDF for each of its 7 kandas (books). The Hindi version is coming soon.
+The Valmiki Ramayana in **English and Hindi**, one PDF for each of its 7 kandas (books).
 
-> हिन्दी: वाल्मीकि रामायण के सातों काण्ड अंग्रेज़ी में उपलब्ध हैं। हिन्दी संस्करण जल्द आएगा।
+> हिन्दी: वाल्मीकि रामायण के सातों काण्ड, अंग्रेज़ी और हिन्दी दोनों में।
 
 ## About these books
 
@@ -15,7 +15,7 @@ The Valmiki Ramayana in **English**, one PDF for each of its 7 kandas (books). T
 | Folder | What is inside |
 |---|---|
 | [`english/`](english/) | English PDFs, one for each kanda |
-| [`hindi/`](hindi/) | Hindi PDFs (coming soon) |
+| [`hindi/`](hindi/) | Hindi PDFs, one for each kanda |
 
 ## Complete book
 
@@ -24,19 +24,19 @@ The Valmiki Ramayana in **English**, one PDF for each of its 7 kandas (books). T
 | Language | File |
 |---|---|
 | English | [00_Valmiki_Ramayana_Complete_English.pdf](english/00_Valmiki_Ramayana_Complete_English.pdf) (all 7 kandas, about 13 MB) |
-| Hindi | coming soon |
+| Hindi | [00_Valmiki_Ramayana_Complete_Hindi.pdf](hindi/00_Valmiki_Ramayana_Complete_Hindi.pdf) (all 7 kandas, about 17 MB) |
 
 ## The 7 kandas
 
 | No. | Kanda | English | Hindi |
 |---|---|---|---|
-| 01 | Bala Kanda | [PDF](english/01_Bala_Kanda_English.pdf) | coming soon |
-| 02 | Ayodhya Kanda | [PDF](english/02_Ayodhya_Kanda_English.pdf) | coming soon |
-| 03 | Aranya Kanda | [PDF](english/03_Aranya_Kanda_English.pdf) | coming soon |
-| 04 | Kishkindha Kanda | [PDF](english/04_Kishkindha_Kanda_English.pdf) | coming soon |
-| 05 | Sundara Kanda | [PDF](english/05_Sundara_Kanda_English.pdf) | coming soon |
-| 06 | Yuddha Kanda | [PDF](english/06_Yuddha_Kanda_English.pdf) | coming soon |
-| 07 | Uttara Kanda | [PDF](english/07_Uttara_Kanda_English.pdf) | coming soon |
+| 01 | Bala Kanda | [PDF](english/01_Bala_Kanda_English.pdf) | [PDF](hindi/01_Bala_Kanda_Hindi.pdf) |
+| 02 | Ayodhya Kanda | [PDF](english/02_Ayodhya_Kanda_English.pdf) | [PDF](hindi/02_Ayodhya_Kanda_Hindi.pdf) |
+| 03 | Aranya Kanda | [PDF](english/03_Aranya_Kanda_English.pdf) | [PDF](hindi/03_Aranya_Kanda_Hindi.pdf) |
+| 04 | Kishkindha Kanda | [PDF](english/04_Kishkindha_Kanda_English.pdf) | [PDF](hindi/04_Kishkindha_Kanda_Hindi.pdf) |
+| 05 | Sundara Kanda | [PDF](english/05_Sundara_Kanda_English.pdf) | [PDF](hindi/05_Sundara_Kanda_Hindi.pdf) |
+| 06 | Yuddha Kanda | [PDF](english/06_Yuddha_Kanda_English.pdf) | [PDF](hindi/06_Yuddha_Kanda_Hindi.pdf) |
+| 07 | Uttara Kanda | [PDF](english/07_Uttara_Kanda_English.pdf) | [PDF](hindi/07_Uttara_Kanda_Hindi.pdf) |
 
 ## Why this library exists
 
