@@ -25,7 +25,7 @@ The Mahabharata in **English and Hindi**, one PDF for each of its 18 parvas (boo
 | Language | File |
 |---|---|
 | English | [Mahabharata_Complete_English.pdf](english/Mahabharata_Complete_English.pdf) (all 18 parvas, about 55 MB) |
-| Hindi | coming soon |
+| Hindi | [Mahabharata_Complete_Hindi.pdf](hindi/Mahabharata_Complete_Hindi.pdf) (all 18 parvas, about 70 MB) |
 
 ## The 18 parvas
 
@@ -42,8 +42,8 @@ The Mahabharata in **English and Hindi**, one PDF for each of its 18 parvas (boo
 | 09 | Shalya Parva | [PDF](english/09_Shalya_Parva_English.pdf) | [PDF](hindi/09_Shalya_Parva_Hindi.pdf) |
 | 10 | Sauptika Parva | [PDF](english/10_Sauptika_Parva_English.pdf) | [PDF](hindi/10_Sauptika_Parva_Hindi.pdf) |
 | 11 | Stri Parva | [PDF](english/11_Stri_Parva_English.pdf) | [PDF](hindi/11_Stri_Parva_Hindi.pdf) |
-| 12 | Shanti Parva | [PDF](english/12_Shanti_Parva_English.pdf) | coming soon |
-| 13 | Anushasana Parva | [PDF](english/13_Anushasana_Parva_English.pdf) | coming soon |
+| 12 | Shanti Parva | [PDF](english/12_Shanti_Parva_English.pdf) | [PDF](hindi/12_Shanti_Parva_Hindi.pdf) |
+| 13 | Anushasana Parva | [PDF](english/13_Anushasana_Parva_English.pdf) | [PDF](hindi/13_Anushasana_Parva_Hindi.pdf) |
 | 14 | Ashvamedhika Parva | [PDF](english/14_Ashvamedhika_Parva_English.pdf) | [PDF](hindi/14_Ashvamedhika_Parva_Hindi.pdf) |
 | 15 | Ashramavasika Parva | [PDF](english/15_Ashramavasika_Parva_English.pdf) | [PDF](hindi/15_Ashramavasika_Parva_Hindi.pdf) |
 | 16 | Mausala Parva | [PDF](english/16_Mausala_Parva_English.pdf) | [PDF](hindi/16_Mausala_Parva_Hindi.pdf) |
